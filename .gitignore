@@ -16,3 +16,7 @@ npm-debug.log*
 
 # Dependency directory
 node_modules
+
+# Sass
+.sass-cache/
+*.css.map
